@@ -1,0 +1,1 @@
+C:\Users\Bux\Documents\Visual Studio 2010\Build Tree\Master Thesis-experimental\MatrixIOTests>SET PATH=C:\Qt\4.7.3-x64-opensource\bin;C:\VTK\5.6.1-x64-bin\bin\Debug;..\MatrixIO\Debug;..\Rendering\Debug;..\UI\Debug;C:\Program Files (x86)\Glew\bin;%PATH%

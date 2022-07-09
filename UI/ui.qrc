@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/language_defs">
+        <file>3rdparty/syntaxhighlighter/filetypes/opencl.lang</file>
+        <file>3rdparty/syntaxhighlighter/filetypes/kate.xml</file>
+        <file>3rdparty/syntaxhighlighter/filetypes/c.lang</file>
+    </qresource>
+    <qresource prefix="/ui">
+        <file>icons/fatcow/32x32/sum.png</file>
+        <file>icons/fatcow/32x32/application_link.png</file>
+        <file>icons/fatcow/32x32/brick_edit.png</file>
+        <file>icons/fatcow/32x32/folder.png</file>
+        <file>icons/fatcow/32x32/zoom_layer.png</file>
+        <file>icons/fatcow/32x32/layer_grid.png</file>
+        <file>icons/fatcow/32x32/brain.png</file>
+        <file>icons/fatcow/32x32/link.png</file>
+        <file>style_sheet.qss</file>
+        <file>style_sheet_win.qss</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/text">
+        <file>shaders/Lighting.fs</file>
+        <file>shaders/Lighting.vs</file>
+        <file>kernels/kernel.cl</file>
+    </qresource>
+</RCC>
