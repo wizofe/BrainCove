@@ -1,4 +1,6 @@
-This repository contains source code that accompanies the paper "BrainCove: A tool for voxel-wise fMRI brain connectivity visualization" and thesis "Interactive Visualization of Functional Brain Connectivity". BrainCove is a prototype of an application for the interactive visualization of functional brain connectivity at voxel resolution. 
+This repository contains source code that accompanies the paper "BrainCove: A tool for voxel-wise fMRI brain connectivity visualization" and thesis "Interactive Visualization of Functional Brain Connectivity". BrainCove is a prototype of an application for the interactive visualization of functional brain connectivity at voxel resolution.
+
+This is also an extension of this code included to work on the ABIDE dataset.
 
 FubraConnex, the prototype tool for region-based functional brain connectivity can be found [here](https://code.google.com/p/fubraconnex "").
 
